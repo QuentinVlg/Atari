@@ -1,3 +1,5 @@
-# Atari
+# Atari 🕹️
 
-Deep Reinforcement Learning
+## Deep Reinforcement Learning for Atari games
+
+**Projet 5GMM**
